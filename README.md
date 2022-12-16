@@ -7,6 +7,8 @@ using:
 - Clean Architecture
 - Navigation
 - Coroutines
+- Hilt DI
+- Unit Testing
 
 > Please follow and :star2: the project to give support.
 
